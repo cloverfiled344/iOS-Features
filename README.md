@@ -1,4 +1,6 @@
 # iOS-Features
+Запомните самое главное , когда вы будете изучать этот RoadMap -> В этой жизни главное себя не потерять!!!!!
+
 Road map for Swift programming !
 Step First !!!!
 
